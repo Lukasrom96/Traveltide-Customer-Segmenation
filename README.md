@@ -1,6 +1,4 @@
-*This Notebook provides a Customer-Segmentation Analysis of the Traveltide-Company*
-
-*Disclaimer: This is a first approach on a limited data-foundation and not a complete result. It is meant to showcase how one can start a segmentation process which needs to be evaluated and updated with additional data.* 
+**TRAVELTIDE Customer-Segmentation Analysis** 
 
 E-booking startup TravelTide is a hot new player in the online travel industry. It has experienced steady growth since it was founded at the tail end of the COVID-19 pandemic (2021-04) on the strength of its data aggregation and search technology, which is best in class. Customer feedback has shown - and industry analysts agree - that TravelTide customers have access to the largest travel inventory in the e-booking space.
 
@@ -25,3 +23,9 @@ Steps of Analysis
 2.   Feature Engineering
 3.   Segmentation
 4.   Perk applyment
+
+
+*The Notebook in this repository provides a Customer-Segmentation Analysis of the Traveltide-Company*
+*The Slides in this repository provide a summarized explanation of the segmentation process, results and recommendations*
+
+*Disclaimer: This is a first approach on a limited data-foundation and not a complete result. It is meant to showcase how one can start a segmentation process which needs to be evaluated and updated with additional data.*
