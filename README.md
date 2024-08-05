@@ -27,6 +27,6 @@ Steps of Analysis
 
 *The Notebook in this repository provides a Customer-Segmentation Analysis of the Traveltide-Company*
 
-*The Slides in this repository provide a summarized explanation of the segmentation process, results and recommendations*
+*The Slides in this repository provide a summarized explanation of the segmentation process and results as well as first recommendations*
 
 *Disclaimer: This is a first approach on a limited data-foundation and not a complete result. It is meant to showcase how one can start a segmentation process which needs to be evaluated and updated with additional data.*
